@@ -1,0 +1,14 @@
+*.pyc
+*.class
+.settings/
+.metadata/
+bin/
+External Plug-in Libraries/
+*.launch
+*...args
+*/build.xml
+*/@dot.log
+.DS_Store
+testproj/
+.#*
+
